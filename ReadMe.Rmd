@@ -1,0 +1,8 @@
+---
+title: "ReadMe"
+author: "Yukun wang"
+date: "January 17, 2018"
+output: html_document
+---
+
+This is the poverty prediction project.
